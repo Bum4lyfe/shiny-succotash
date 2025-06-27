@@ -6,7 +6,7 @@
 Artemis Financial is a fictional financial services company. Their web application was at risk due to poor input validation, lack of access controls, and outdated dependency use. My role was to identify and fix security issues in their Java application.
 
 ### What I Did Well
-I effectively used OWASP Dependency-Check to identify vulnerable libraries, applied secure coding practices like input validation, SSL configuration, and removed deprecated methods. Secure coding is crucial—it prevents data breaches and helps maintain trust in software systems.
+I effectively used OWASP Dependency-Check to identify vulnerable libraries, applied secure coding practices like input validation, SSL configuration, and removed deprecated methods. Secure coding is crucial. It prevents data breaches and helps maintain trust in software systems.
 
 ### Challenges and Insights
 Balancing functionality with security was challenging. After refactoring, I ran static tests again and validated functionality to ensure no new vulnerabilities were introduced. Learning to evaluate severity and prioritize fixes was especially useful.
